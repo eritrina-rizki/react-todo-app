@@ -7,15 +7,15 @@ This project is about creating a to-do list application with React.js using brow
 <br><br>
 This is the preview of the app when there is no to-do in the list:
 <br><br>
-<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/7bbf23a6-ced3-498d-999e-69e371861c9c)" alt="no-todo" />
+<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/08fff813-415b-448e-958a-98d663c4b5d2" alt="no-todo" />
 <br><br><br>
 This is the preview of the to-do lists:
 <br><br>
-<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/ced9916e-fc69-43b6-aa2d-2618637940db)" alt="todo-lists" />
+<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/c83bb11e-6e7b-41c1-b07d-aa03e843661f" alt="todo-lists" />
 <br><br><br>
 This is the preview when users in edit mode:
 <br><br>
-<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/0aef2866-bac1-46c0-832a-4dea0bf6d1c5)" alt="edit-mode" />
+<img src="https://github.com/eritrina-rizki/react-todo-app/assets/129740560/cdeadaf0-5194-45e5-b6e8-f1b095340f2b" alt="edit-mode" />
 <br><br><br>
 I realize that there are still many mistakes and lacks in this project. I really welcome your feedback, so that I can improve my skills and make a better performance in the next project.
 <br><br>
